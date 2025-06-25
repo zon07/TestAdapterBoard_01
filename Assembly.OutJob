@@ -21,7 +21,7 @@ TargetOutputMedium=BOM_P
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Adobe PDF
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -40,7 +40,7 @@ OutputMedium6_Type=GeneratedFiles
 OutputType1=Pick Place
 OutputName1=Generates pick and place files
 OutputCategory1=Assembly
-OutputDocumentPath1=MonModule.PcbDoc
+OutputDocumentPath1=TestAdapterBoard_01.PcbDoc
 OutputVariantName1=
 OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
@@ -71,7 +71,7 @@ Configuration2_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowPr
 OutputType3=PDF3D
 OutputName3=PDF3D
 OutputCategory3=Documentation
-OutputDocumentPath3=MonModule.PcbDoc
+OutputDocumentPath3=TestAdapterBoard_01.PcbDoc
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
@@ -136,7 +136,7 @@ Configuration5_Item5=Type=321|Name=362|Quantity=120|Country=100|Analog=100
 [PublishSettings]
 OutputFilePath2=C:\Users\user\Desktop\Work\Prj_KOSVT\KOSVT_1\Project_Outputs\KOSVT-1_v1.0.0_VariantName\
 ReleaseManaged2=1
-OutputBasePath2=Project_Outputs
+OutputBasePath2=Project Outputs for TestAdapterBoard-01
 OutputPathMedia2=
 OutputPathMediaValue2==ProjectName + '_v'+Major_version + '.' + Minor_version + '.' + Patch_version +'_'+ VariantName
 OutputPathOutputer2=[Output Type]
@@ -163,7 +163,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=C:\Users\user\Desktop\Work\Prj_KOSVT\KOSVT_1\Project_Outputs\KOSVT-1_v1.0.0_VariantName\
 ReleaseManaged3=1
-OutputBasePath3=Project_Outputs
+OutputBasePath3=Project Outputs for TestAdapterBoard-01
 OutputPathMedia3=
 OutputPathMediaValue3==ProjectName + '_v'+Major_version + '.' + Minor_version + '.' + Patch_version +'_'+ VariantName
 OutputPathOutputer3=[Output Type]
@@ -176,7 +176,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project_Outputs
+OutputBasePath4=Project Outputs for TestAdapterBoard-01
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -213,7 +213,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 OutputFilePath5=C:\Users\user\Desktop\Work\Prj_KOSVT\KOSVT_1\Project_Outputs\KOSVT-1_v1.0.0_VariantName\
 ReleaseManaged5=1
-OutputBasePath5=Project_Outputs
+OutputBasePath5=Project Outputs for TestAdapterBoard-01
 OutputPathMedia5=
 OutputPathMediaValue5==ProjectName + '_v'+Major_version + '.' + Minor_version + '.' + Patch_version  +'_'+ VariantName
 OutputPathOutputer5=[Output Type]
@@ -226,7 +226,7 @@ OutputFileNameSpecial5=
 OpenOutput5=1
 OutputFilePath6=C:\Users\User\Desktop\GitRepos\kosvt\Project_Outputs\
 ReleaseManaged6=1
-OutputBasePath6=Project_Outputs
+OutputBasePath6=Project Outputs for TestAdapterBoard-01
 OutputPathMedia6=
 OutputPathMediaValue6=
 OutputPathOutputer6=[Output Type]

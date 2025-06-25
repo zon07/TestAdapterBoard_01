@@ -8,6 +8,7 @@
 /Project Logs*/
 /Temp/
 /Project Outputs/
+/Project Outputs*/
 
 # Временные и служебные файлы
 *.bak

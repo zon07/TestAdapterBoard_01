@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job Group
+Name=
 Description=
 TargetOutputMedium=BOM
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Adobe PDF
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -38,7 +38,7 @@ OutputMedium5_Type=GeneratedFiles
 OutputType1=PDF3D
 OutputName1=PDF3D
 OutputCategory1=Documentation
-OutputDocumentPath1=MonModule.PcbDoc
+OutputDocumentPath1=TestAdapterBoard_01.PcbDoc
 OutputVariantName1=IPMB_3V3
 OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
@@ -94,7 +94,7 @@ Configuration3_Item6=Designator=120|Type=120|Name=435|Quantity=138|Manufacturer=
 [PublishSettings]
 OutputFilePath2=C:\Users\user\Desktop\Work\Prj_KOSVT\KOSVT_1\Project_Outputs\KOSVT-1_v1.0.0\
 ReleaseManaged2=1
-OutputBasePath2=Project_Outputs
+OutputBasePath2=Project Outputs for TestAdapterBoard-01
 OutputPathMedia2=
 OutputPathMediaValue2==ProjectName + '_v'+Major_version + '.' + Minor_version + '.' + Patch_version
 OutputPathOutputer2=[Output Type]
@@ -121,7 +121,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=C:\Users\user\Desktop\Work\Prj_KOSVT\KOSVT\Project_Outputs\
 ReleaseManaged3=1
-OutputBasePath3=Project_Outputs
+OutputBasePath3=Project Outputs for TestAdapterBoard-01
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -134,7 +134,7 @@ OutputFileNameSpecial3=
 OpenOutput3=0
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project_Outputs
+OutputBasePath4=Project Outputs for TestAdapterBoard-01
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -169,9 +169,9 @@ FFmpegPixelFormat4=0
 FFmpegQuality4=80
 WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
-OutputFilePath5=C:\Users\user\Desktop\Work\Prj_KOSVT\KOSVT_1\Project_Outputs\KOSVT-1_v1.0.0\
+OutputFilePath5=C:\Users\User\Desktop\GitRepos\TestAdapterBoard_01\Project Outputs for TestAdapterBoard-01\
 ReleaseManaged5=1
-OutputBasePath5=Project_Outputs
+OutputBasePath5=Project Outputs for TestAdapterBoard-01
 OutputPathMedia5=
 OutputPathMediaValue5==ProjectName + '_v'+Major_version + '.' + Minor_version + '.' + Patch_version
 OutputPathOutputer5=[Output Type]
@@ -198,7 +198,7 @@ OpenIPCOutput3=0
 EnableReload3=0
 RelativeOutputPath4=
 OpenOutputs4=1
-RelativeOutputPath5=C:\Users\user\Desktop\Work\Prj_KOSVT\KOSVT_1\Project_Outputs\KOSVT-1_v1.0.0\
+RelativeOutputPath5=C:\Users\User\Desktop\GitRepos\TestAdapterBoard_01\Project Outputs for TestAdapterBoard-01\
 OpenOutputs5=1
 AddToProject5=1
 TimestampFolder5=0
