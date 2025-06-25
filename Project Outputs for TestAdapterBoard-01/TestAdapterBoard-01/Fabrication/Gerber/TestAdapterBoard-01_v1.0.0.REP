@@ -1,0 +1,166 @@
+*************************************************************
+FileName = TestAdapterBoard-01_v1.0.0.GBR
+AutoAperture = True
+*************************************************************
+Generating : Board
+      File : TestAdapterBoard-01_v1.0.0.GM1
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D15
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : TestAdapterBoard-01_v1.0.0.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : TestAdapterBoard-01_v1.0.0.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : TestAdapterBoard-01_v1.0.0.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : TestAdapterBoard-01_v1.0.0.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : TestAdapterBoard-01_v1.0.0.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : TestAdapterBoard-01_v1.0.0.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : TestAdapterBoard-01_v1.0.0.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D14
+    D15
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : TestAdapterBoard-01_v1.0.0.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D14
+    D16
+    D17
+    D18
+    D19
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : TestAdapterBoard-01_v1.0.0.GM
+
+
+Used DCodes :
+    D34
+*************************************************************
+
