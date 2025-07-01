@@ -144,16 +144,16 @@ Name=Author
 Value=Шкляев
 
 [Parameter2]
-Name=Patch_Version
-Value=0
+Name=Major_Version
+Value=1
 
 [Parameter3]
 Name=Minor_Version
 Value=0
 
 [Parameter4]
-Name=Major_Version
-Value=1
+Name=Patch_Version
+Value=0
 
 [Configuration1]
 Name=Sources
